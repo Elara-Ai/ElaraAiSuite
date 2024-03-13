@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElaraAi.Common", "ElaraAi.Common\ElaraAi.Common.csproj", "{4CF7E654-1068-40E7-B2F9-D7D4BE2A7E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElaraAi.OrgSite", "ElaraAi.OrgSite\ElaraAi.OrgSite.csproj", "{62FE7B10-D56B-400D-B1D5-2773E675BC16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CF7E654-1068-40E7-B2F9-D7D4BE2A7E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF7E654-1068-40E7-B2F9-D7D4BE2A7E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF7E654-1068-40E7-B2F9-D7D4BE2A7E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF7E654-1068-40E7-B2F9-D7D4BE2A7E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FE7B10-D56B-400D-B1D5-2773E675BC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FE7B10-D56B-400D-B1D5-2773E675BC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FE7B10-D56B-400D-B1D5-2773E675BC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FE7B10-D56B-400D-B1D5-2773E675BC16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
